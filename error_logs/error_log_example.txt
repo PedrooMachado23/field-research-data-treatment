@@ -1,0 +1,30 @@
+Nenhum erro na tabela estacoes foi detectado
+---------
+Erros da tabela acdom
+---------
+Nenhum erro na tabela acdom foi detectado
+---------
+Erros da tabela es
+---------
+Nenhum erro na tabela es foi detectado
+---------
+Erros da tabela limnologia
+---------
+Nenhum erro na tabela limnologia foi detectado
+---------
+Erros da tabela lsky
+---------
+Nenhum erro na tabela lsky foi detectado
+---------
+Erros da tabela lw
+---------
+Nenhum erro na tabela lw foi detectado
+---------
+Erros da tabela rrs_completa
+---------
+Nenhum erro na tabela rrs_completa foi detectado
+---------
+Erros da tabela rrs_mediana
+---------
+Nenhum erro na tabela rrs_mediana foi detectado
+---------
