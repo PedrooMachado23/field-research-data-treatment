@@ -18,7 +18,7 @@ jobs:
           
       - name: signal
         run: |
-          curl -X POST https://api.github.com/repos/PedrooMachado23/inpe_scholarship/dispatches \
+          curl -X POST https://api.github.com/repos/PedrooMachado23/inpe-scholarship/dispatches \
           -H 'Accept: application/vnd.github.everest-preview+json' \
           -u ${{ secrets.PING_TOKEN }} \
           --data '{"event_type": "ping", "client_payload": {
